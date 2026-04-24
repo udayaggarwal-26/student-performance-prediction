@@ -2,11 +2,11 @@
 
 A machine learning research project that predicts **student academic performance (final grade G3)** using regression techniques. Built with Python, trained on the **UCI Student Performance Dataset (student-mat.csv)**, and published as a research paper.
 
-> \*\*Authors:\*\* Uday Aggarwal, Himanshu Sharma, Hargun Singh, Drishti Sharma
+> **Authors:** Uday Aggarwal, Himanshu Sharma, Hargun Singh, Drishti Sharma
 >
-> \*\*Supervised by:\*\* Dr. Gurpreet Singh
+> **Supervised by:** Dr. Gurpreet Singh
 >
-> \*\*Institution:\*\* Chitkara University Institute of Engineering and Technology, Punjab, India
+> **Institution:** Chitkara University Institute of Engineering and Technology, Punjab, India
 
 \---
 
@@ -15,7 +15,7 @@ A machine learning research project that predicts **student academic performance
 ```
 student-performance-prediction/
 ├── Student\_Performance\_Prediction.ipynb   # Full notebook
-├── student-mat.csv                        # Dataset
+├── student-mat.csv                          # Dataset
 └── README.md
 ```
 
@@ -50,7 +50,7 @@ jupyter notebook
 
 Then open `Student\_Performance\_Prediction.ipynb` and run all cells from top to bottom.
 
-> \*\*Or open directly in Google Colab:\*\*
+> **Or open directly in Google Colab:**
 > Upload the notebook and `student-mat.csv` to your Google Drive, then run the cells.
 
 \---
@@ -106,7 +106,7 @@ Source: **UCI Machine Learning Repository — Student Performance Dataset**.
 |Decision Tree|1.734|5.190|0.6817|4th|
 |**Random Forest**|**1.147**|**2.838**|**0.8288**|**1st**|
 
-> \*\*Random Forest\*\* achieved the best performance with the highest R² Score of \*\*0.8288\*\* and lowest MAE of \*\*1.147\*\*.
+> **Random Forest** achieved the best performance with the highest R² Score of **0.8288** and lowest MAE of **1.147**.
 
 \---
 
