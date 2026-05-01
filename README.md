@@ -2,7 +2,7 @@
 
 A machine learning research project that predicts **student academic performance (final grade G3)** using regression techniques. Built with Python, trained on the **UCI Student Performance Dataset (student-mat.csv)**, and published as a research paper.
 
-> **Authors:** Uday Aggarwal, Himanshu Sharma, Hargun Singh, Drishti Sharma
+> **Authors:** Uday Aggarwal(2210990917), Himanshu Sharma(2210990407), Hargun Singh(2210990360), Drishti Sharma(2210991548)
 >
 > **Supervised by:** Dr. Gurpreet Singh
 >
